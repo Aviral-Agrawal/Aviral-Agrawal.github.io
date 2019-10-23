@@ -46,4 +46,7 @@
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   }
+  "scripts": {
+    "deploy": "gatsby build && gh-pages -d public -b master"
+  }
 }
