@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Rashmi AP',
-    siteUrl: 'http://rashmiap.me',
+    title: 'Aviral Agrawal',
+    siteUrl: 'http://aviral-agrawal.github.io',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
