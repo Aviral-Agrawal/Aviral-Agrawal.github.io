@@ -1,12 +1,11 @@
-[***Under Development***]
+***Under Development***
 
 [**Personal Portfolio Website**](https://github.com/rashmiap/personal-website-react)
 -
 Hello world 👋. <br/>
 This site is developed using [**Gatsby**](https://www.gatsbyjs.org/)🚀.<br/>
-Check out the site at http://rashmiap.me
+Check out the site at http://aviral-agrawal.github.io
 
-Illustration Credits - [**Prince Ali Khan**](https://github.com/princealikhan) 👑
 -
 ![Preview Me](src/assets/images/rashmi.svg)
 
