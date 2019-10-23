@@ -7,7 +7,7 @@ This site is developed using [**Gatsby**](https://www.gatsbyjs.org/)🚀.<br/>
 Check out the site at http://aviral-agrawal.github.io
 
 -
-![Preview Me](src/assets/images/rashmi.svg)
+![Preview Me](src/assets/images/background_image.jpg)
 
 
 **Run Locally**
