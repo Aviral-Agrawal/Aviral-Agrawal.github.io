@@ -1,7 +1,6 @@
 {
     "version": 2,
     "name": "personal-website-reach",
-    "alias": "aviral-agrawal.github.io",
     "builds": [
       { 
         "src": "package.json", 
