@@ -1,10 +1,10 @@
 export default [
     {
         id: 1,
-        name: "B M S College of Engineering",
+        name: "Birla Institute of Technology and Science, Pilani",
         major: "Computer Science",
         degree: "Bachelor",
-        dated: "2011 - 2015",
-        cgpa: "9.12"
+        dated: "2016 - 2020",
+        cgpa: "9.04"
     },
 ];

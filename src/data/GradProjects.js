@@ -1,35 +1,57 @@
 import antik from '../assets/images/projects/antik.svg'
 import quiz from '../assets/images/projects/quiz.svg'
+import vision from '../assets/images/projects/vision.svg'
+import aware from '../assets/images/projects/aware.svg'
 
 export default [
     {
         id: 1,
-        title: "ANTIK Web Framework",
-        icon: antik,
-        description: "Built a web application for a packet injection toolkit named ANTIK. The tool’s drawback was its non-scalability. The project was to make it deployable on a global platform and to enable users to test the HTTP Apache server from anywhere on the network. The web app enables users to log in securely and trigger the ANTIK tool from a node on the network. Used Django queue to enqueue the HTTP request for processing, which when serviced, triggers the tool with the necessary inputs. The output from the ANTIK tool is fed into a Redis database, where the client can subscribe for that data using Centrifuge. The report when available, is published to the client page. Programmed the front-end using Bootstrap and used Centrifuge, a real-time messaging server, to allow the user to subscribe to the results. Deployed Redis to store the results from the tool and made use of Django-RQ to maintain a queue of workers. Developed by a 3 member team.",
+        title: "REAL TIME IDENTITY DETECTION SYSTEM",
+        icon: vision,
+        description: "Devise a system to identify a person at a certain location that can be effectively installed at required entrance points.This system should be able to log the details of the passerby in real time. This has the potential of automating many systems. One of the goals would also be to surpass the state-of-the-art.",
         githubPath: null,
         demoPath: null,
-        year: "2014 - 2015",
-        techUsed: "Python, Django, CSS Bootstrap"
+        year: "2019 - Present",
+        techUsed: "Python, Django, CNN, SQL"
     },
     {
       id: 2,
-      title: "Bolly-Quiz : Bollywood quizzing app",
-      description: "A ‘C’ based static application developed using utility tools like RPM, MELD and MAKE. Developed by a 3 member team. This Quiz Application provides 4 categories - Actors, Movies, Musicians and Miscellaneous to pick from and also tracks the highest score and updates it when necessary.",
-      icon: quiz,
+      title: "QUERYING FACIAL IMAGES USING DEEP LEARNING",
+      description: "Employed Deep Learning to query a set of suspects’ facial images in the database to find the people who best match a given description by the user.",
+      icon: vision,
       githubPath: null,
       demoPath: null,
-      year: "2012",
-      techUsed: "C"
+      year: "2019",
+      techUsed: "Python, CNN"
     },
     {
       id: 3,
-      title: "Graphical Representation of Sorting Algorithms",
-      description: "Representation of simple sorting algorithms in a graphical way in order to understand the implementation of them with the help of java applets.",
-      icon: quiz,
+      title: "COMPILER CONSTRUCTION",
+      description: "Designed a compiler for an artificial C-like language from scratch, implementing all the necessary structures to output a final executable code.",
+      icon: aware,
       githubPath: null,
       demoPath: null,
-      year: "2012",
-      techUsed: "Java applets"
-    }
-]
+      year: "2019",
+      techUsed: "C"
+    },
+    {
+      id: 4,
+      title: "FULLY CONVOLUTIONAL NETWORKS FOR ACTION RECOGNITION",
+      description: "The project aims at designing a model for accurately determining action in videos. The project is then used to identify a particular action class in surveillance videos.",
+      icon: aware,
+      githubPath: null,
+      demoPath: null,
+      year: "2018",
+      techUsed: "Python, CNN"
+    },
+    {
+      id: 5,
+      title: "HEART DISEASE PREDICTION USING DATA MINING",
+      description: "Several Data mining techniques were used to predict the vulnerability of a person to heart disease based on many parameters observed.",
+      icon: aware,
+      githubPath: null,
+      demoPath: null,
+      year: "2018",
+      techUsed: "Python, Data mining"
+  },
+];

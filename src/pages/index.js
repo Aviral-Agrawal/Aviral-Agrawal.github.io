@@ -8,13 +8,14 @@ import Layout from '../components/layout'
 const IndexPage = () => {
   return <Layout>
   <UserWrapper>
-    <UserTitle>Rashmi <span>AP</span></UserTitle>
+    <UserTitle>Aviral <span>Agrawal</span></UserTitle>
     <UserDescription>
       <div>
         <p>
         Hello there, welcome to my portfolio. I am a
-        front end developer, visual artist and an animal lover
-        based out of Bangalore.
+        B.E. (Hons.) Computer Science student at BITS Pilani.
+        I enjoy computer science as much as I love to read,
+        speak out, and watch movies.
         </p>
         <DownloadButton href="https://github.com/rashmiap/personal-website-react/raw/master/RashmiAp-Resume.pdf"  download title="Resume">Download Resume</DownloadButton>
       </div>

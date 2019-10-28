@@ -14,7 +14,7 @@ const Projects = () => (
     <Tabs>
       <TabList>
         <Tab>Professional</Tab>
-        <Tab>Personal</Tab>
+        {/*<Tab>Personal</Tab>*/}
         <Tab>Undergrad</Tab>
       </TabList>
 
@@ -25,13 +25,13 @@ const Projects = () => (
           }
         </ProjectsSection>
       </TabPanel>
-      <TabPanel>
+      {/*<TabPanel>
         <ProjectsSection>
           {
             hobbyProjects.map(item => (<ProjectBox key={item.id} info={item} />))
           }
         </ProjectsSection>
-      </TabPanel>
+      </TabPanel>*/}
       <TabPanel>
         <ProjectsSection>
           {
