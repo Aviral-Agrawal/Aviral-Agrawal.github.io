@@ -33,7 +33,7 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "now-build": "npm run build",
-	"deploy": "gatsby build && gh-pages -d public -b master",
+	"deploy": "gatsby build && gh-pages -d public",
     "format": "prettier --write \"src/**/*.js\"",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
