@@ -44,7 +44,7 @@ export const UserDescription = styled.div`
 export const DownloadButton = styled.a`
   width: 298px;
   height: 71px;
-  background-color: rgba(188, 188, 188, 0.1);
+  background-color: rgba(188, 188, 188, 0.5);
   box-sizing: border-box;
   display: flex;
   align-items: center;

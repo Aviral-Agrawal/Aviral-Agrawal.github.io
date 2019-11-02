@@ -6,6 +6,7 @@ import { siteMeta } from '../data/Seo'
 import Helmet from 'react-helmet'
 import favicon from '../assets/images/rash-favicon.png'
 import blueBg from '../assets/images/blue-bg.png'
+import mainBg from '../assets/images/main_background5.png'
 import { Location } from '@reach/router'
 
 // import Header from '../components/Header/Header'
@@ -16,7 +17,7 @@ import Header from './Header/header';
 import Footer from './Footer/footer';
 
 const Wrapper = styled.div`
-  background-image: url(${blueBg});
+  background-image: url(${mainBg});
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
