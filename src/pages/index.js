@@ -17,7 +17,7 @@ const IndexPage = () => {
         I enjoy computer science as much as I love to read,
         converse, and watch movies.
         </p>
-        <DownloadButton href="https://github.com/Aviral-Agrawal/aviral-agrawal.github.io/raw/master/aviral_resume.pdf/"  download title="Resume">Download Resume</DownloadButton>
+        <DownloadButton href="https://github.com/Aviral-Agrawal/aviral-agrawal.github.io/raw/Code/aviral_resume.pdf/"  download title="Resume">Download Resume</DownloadButton>
       </div>
       {/*<img src={MainBackground} alt="rashmi self" />*/}
     </UserDescription>
