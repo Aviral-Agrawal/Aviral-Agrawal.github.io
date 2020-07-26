@@ -13,7 +13,7 @@ const IndexPage = () => {
       <div>
         <p>
         Hello there, welcome to my portfolio. I am a
-        B.E. (Hons.) Computer Science student at BITS Pilani.
+        B.E. (Hons.) Computer Science graduate from BITS Pilani.
         I enjoy computer science as much as I love to read,
         converse, and watch movies.
         </p>

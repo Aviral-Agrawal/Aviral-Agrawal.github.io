@@ -4,6 +4,23 @@ import quiz from '../assets/images/projects/quiz.svg'
 export default [
     {
         id: 1,
+        title: "AMAZON MACHINE LEARNING | RESEARCH ENGINEER INTERN",
+        icon: quiz,
+        description: "• Designed a Language generation model for on-the-fly Text generation.\
+        The flow consists of Named Entity Recognition tasks, Building Nearest Neighbour\
+        constructs, followed by a custom-made language model which is used to\
+        generate text using Beam Search on a greedy selection tree. \
+        • Designed a Text Classification pipeline consisting of appropriate\
+        data-preprocessing followed by the application of Deep Learning (LSTM and\
+        CNN) to solve the NLP problem.\
+        • Deliverable had huge impact on the company’s customers in Asia region.",
+        githubPath: null,
+        demoPath: null,
+        year: "2020",
+        techUsed: "Python, Keras, CNN, LSTM, Beam Search"
+    },
+    {
+        id: 2,
         title: "SAMSUNG RESEARCH INSTITUTE | RESEARCH STUDENT TRAINEE",
         icon: quiz,
         description: "• Employed Deep Learning to solve a novel Computer Vision problem \
@@ -19,7 +36,7 @@ export default [
         techUsed: "Python, Tensorflow, CNN"
     },
     {
-        id: 2,
+        id: 3,
         title: "MAPMYINDIA | RESEARCH INTERN",
         icon: quiz,
         description: "• Devised a new Database schema for the company’s Navigation and tracking \

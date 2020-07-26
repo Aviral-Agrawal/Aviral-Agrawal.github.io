@@ -1,3 +1,4 @@
+import amazon from '../assets/images/amazon-logo.png'
 import samsung from '../assets/images/samsung-logo.png'
 import mmi from '../assets/images/mmi-logo.png'
 import cat from '../assets/images/cat-logo.svg'
@@ -5,6 +6,22 @@ import cat from '../assets/images/cat-logo.svg'
 export default [
     {
         id: 1,
+        name: "Amazon - India Machine Learning",
+        designation: "Research Engineer Intern",
+        dated: "Jan 2020 - July 2020",
+        logo: amazon,
+        companyLink: "https://www.amazon.jobs/en/teams/machine-learning",
+        description: "<p> <ul><li>Designed a Language generation model for on-the-fly Text generation.\
+        The flow consists of Named Entity Recognition tasks, Building Nearest Neighbour\
+        constructs, followed by a custom-made language model which is used to\
+        generate text using Beam Search on a greedy selection tree.\
+        </li><li>Designed a Text Classification pipeline consisting of appropriate\
+        data-preprocessing followed by the application of Deep Learning (LSTM and\
+        CNN) to solve the NLP problem.\
+        </li><li>Deliverable had huge impact on the company’s customers in Asia region.</li></p>"
+    },
+    {
+        id: 2,
         name: "Samsung Research Institute Bangalore",
         designation: "Research Student Trainee",
         dated: "May 2019 - July 2019",
@@ -19,7 +36,7 @@ export default [
         </li><li>Researched and created the entire network for building the solution using TensorFlow.</li></p>"
     },
     {
-        id: 2,
+        id: 3,
         name: "MapmyIndia",
         designation: "Student Trainee",
         dated: "May 2018 - July 2018",

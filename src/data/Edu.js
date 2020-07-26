@@ -5,6 +5,6 @@ export default [
         major: "Computer Science",
         degree: "Bachelor",
         dated: "2016 - 2020",
-        cgpa: "9.04"
+        cgpa: "9.18"
     },
 ];

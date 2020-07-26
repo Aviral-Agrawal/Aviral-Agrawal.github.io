@@ -14,7 +14,7 @@ export const siteMeta = {
     title: 'Aviral Agrawal',
     favicon: favicon,
     author: "Aviral Agrawal",
-    description: "Hello there, welcome to my portfolio. I am an B.E. (Hons.) Computer Science student at BITS Pilani. I enjoy computer science as much as I love reading, orations, and innovate.",
+    description: "Hello there, welcome to my portfolio. I am an B.E. (Hons.) Computer Science graduate from BITS Pilani. I enjoy computer science as much as I love reading, orations, and innovate.",
     copyright: "Aviral Agrawal, Copyright (c) 2019",
     keywords: [
         "Aviral Agrawal",
