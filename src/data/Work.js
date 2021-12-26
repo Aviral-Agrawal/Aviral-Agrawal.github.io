@@ -1,11 +1,35 @@
 import amazon from '../assets/images/amazon-logo.png'
 import samsung from '../assets/images/samsung-logo.png'
+import oracle from '../assets/images/oracle-logo.png'
 import mmi from '../assets/images/mmi-logo.png'
 import cat from '../assets/images/cat-logo.svg'
 
 export default [
     {
         id: 1,
+        name: "Samsung Research Institute Bangalore",
+        designation: "Computer Vision Engineer",
+        dated: "Jan 2021 - Present",
+        logo: samsung,
+        companyLink: "https://research.samsung.com/sri-b",
+        description: "<p> <ul><li>Worked on AI-based Video compression tools with \
+        the goal of achieving BD-rate gain while maintain ing/reducing complexity \
+        with complete ownership on the coding tool design and development.</li></p>"
+    },
+    {
+        id: 2,
+        name: "Oracle",
+        designation: "DevOps Engineer",
+        dated: "Nov 2020 - Jan 2021",
+        logo: oracle,
+        companyLink: "https://www.oracle.com/in/index.html",
+        description: "<p> <ul><li>Part of the OCI Exascale team. Responsible for enhancing \
+        the services available to customers in the form of cloud-based exascale services. </li> \
+        <li> Creation and complete ownership of a FLASK based service and deployment on server.\ </li> \
+        </p>"
+    },
+    {
+        id: 3,
         name: "Amazon - India Machine Learning",
         designation: "Research Engineer Intern",
         dated: "Jan 2020 - July 2020",
@@ -21,7 +45,7 @@ export default [
         </li><li>Deliverable had huge impact on the company’s customers in Asia region.</li></p>"
     },
     {
-        id: 2,
+        id: 4,
         name: "Samsung Research Institute Bangalore",
         designation: "Research Student Trainee",
         dated: "May 2019 - July 2019",
@@ -36,7 +60,7 @@ export default [
         </li><li>Researched and created the entire network for building the solution using TensorFlow.</li></p>"
     },
     {
-        id: 3,
+        id: 5,
         name: "MapmyIndia",
         designation: "Student Trainee",
         dated: "May 2018 - July 2018",

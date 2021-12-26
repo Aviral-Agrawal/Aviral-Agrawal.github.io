@@ -1,14 +1,14 @@
 export default [
     {
         id: 1,
-        name: "English"
+        name: "Python"
     },
     {
         id: 2,
-        name: "Hindi"
+        name: "C++"
     },
     {
         id: 3,
-        name: "German"
+        name: "C"
     }
 ];

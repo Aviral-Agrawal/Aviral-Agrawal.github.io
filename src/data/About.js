@@ -2,14 +2,14 @@ export default [
     {
         id: 1,
         title: "Experience",
-        description: "As a recent graduate, I have undertaken some internships to gain industry exposure and experience Here's a list.",
+        description: "I am currently working in a Research role, exploring and building state-of-the-art solutions using Machine Learning and AI. Here's a list.",
         path: "/experience"
     },
     {
         id: 2,
-        title: "Projects",
-        description: "I like to constantly learn and grow with different projects. Here’s a comprehensive list of projects I’ve worked on. ",
-        path: "/projects"
+        title: "Accomplishments",
+        description: "Here's a list of some publications, awards, others I have achieved over time.",
+        path: "/accomplishments"
     },
     /*{
         id: 3,

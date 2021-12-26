@@ -8,8 +8,8 @@ export default [
     path: '/experience',
   },
   {
-    label: 'Projects',
-    path: '/projects',
+    label: 'Accomplishments',
+    path: '/accomplishments',
   },
   {
     label: 'Contact',
