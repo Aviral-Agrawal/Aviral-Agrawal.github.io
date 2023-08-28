@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{nil9:function(e,t,a){e.exports=a.p+"static/rashmi-408162a8ea5c099137d2515cabe5b9c1.svg"},w2l6:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),s=a.n(n),i=a("nil9"),c=a.n(i);t.default=()=>s.a.createElement("div",null,s.a.createElement("img",{src:c.a,alt:"rashmi ap"}),s.a.createElement("p",null,"You just hit a route that doesn't exist... the sadness."))}}]);
+//# sourceMappingURL=component---src-pages-404-js-02efae1b1aa31cbf044c.js.map
