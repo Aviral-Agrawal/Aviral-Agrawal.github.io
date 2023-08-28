@@ -9,7 +9,7 @@ export default [
         id: 1,
         name: "Samsung Research Institute Bangalore",
         designation: "Computer Vision Engineer",
-        dated: "Jan 2021 - Present",
+        dated: "Jan 2021 - Jun 2023",
         logo: samsung,
         companyLink: "https://research.samsung.com/sri-b",
         description: "<p> <ul><li>Worked on AI-based Video compression tools with \

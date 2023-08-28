@@ -4,12 +4,16 @@ export default [
     path: '/',
   },
   {
+    label: 'Publications',
+    path: '/publication_and_patents',
+  },
+  {
     label: 'Experience',
     path: '/experience',
   },
   {
-    label: 'Accomplishments',
-    path: '/accomplishments',
+    label: 'Awards',
+    path: '/awards_and_scholarships',
   },
   {
     label: 'Contact',

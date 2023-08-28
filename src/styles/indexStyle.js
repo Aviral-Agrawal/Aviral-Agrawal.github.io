@@ -25,7 +25,7 @@ export const UserDescription = styled.div`
     font-weight: 300;
     font-size: 26px;
     line-height: 1.3;
-    margin-bottom: 15%;
+    margin-bottom: 12%;
   }
   img{
     max-width: 50%;
