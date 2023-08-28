@@ -5,4 +5,4 @@ gatsby develop
 npm install gh-pages
 npm run build
 "Push to github"
-npm run deploy
+npm run deploy (twice)
