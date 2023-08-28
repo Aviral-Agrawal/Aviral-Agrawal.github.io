@@ -12,6 +12,10 @@ export default [
     path: '/experience',
   },
   {
+    label: 'Teaching',
+    path: '/teaching',
+  },
+  {
     label: 'Awards',
     path: '/awards_and_scholarships',
   },
