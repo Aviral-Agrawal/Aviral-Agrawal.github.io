@@ -1,5 +1,5 @@
 import amazon from '../assets/images/amazon-logo.png'
-import samsung from '../assets/images/samsung-logo.png'
+import samsung from '../assets/images/samsung_logo_w_background.jpeg'
 
 export default [
     {

@@ -1,5 +1,5 @@
 import amazon from '../assets/images/amazon-logo.png'
-import samsung from '../assets/images/samsung-logo.png'
+import samsung from '../assets/images/samsung_logo_w_background.jpeg'
 import oracle from '../assets/images/oracle-logo.png'
 import mmi from '../assets/images/mmi-logo.png'
 import cat from '../assets/images/cat-logo.svg'

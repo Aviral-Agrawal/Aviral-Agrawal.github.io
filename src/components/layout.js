@@ -6,7 +6,7 @@ import { siteMeta } from '../data/Seo'
 import Helmet from 'react-helmet'
 import favicon from '../assets/images/rash-favicon.png'
 import blueBg from '../assets/images/blue-bg.png'
-import mainBg from '../assets/images/main_background12.jpeg'
+import mainBg from '../assets/images/main_background15.png'
 import { Location } from '@reach/router'
 
 // import Header from '../components/Header/Header'
