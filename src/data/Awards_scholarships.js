@@ -1,4 +1,3 @@
-// import samsung from '../assets/images/samsung-logo.png'
 import samsung from '../assets/images/samsung_logo_w_background.jpeg'
 import bengalathon from '../assets/images/bengalathon.jpeg'
 import sch_am from '../assets/images/Scholarship_america_logo.png'
