@@ -18,6 +18,10 @@ export const WorkWrapper = styled.div`
     margin-bottom: 35px;
     border-bottom: solid 1px #ffffff;
   }
+
+  p{
+    max-width: 90%;
+  }
   @media (max-width: 700px) {
     margin-right: 0;
   }

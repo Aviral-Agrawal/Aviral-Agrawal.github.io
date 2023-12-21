@@ -1,12 +1,8 @@
 import React from 'react'
 import '../styles/stepper.css'
-import work from '../data/Work'
 import publ from '../data/Publications_new'
 import patents from '../data/Patents'
-import grad from '../data/Edu'
-import lang from '../data/Language'
-import hobby from '../data/Interests'
-import { ExperienceWrapper, WorkWrapper, EdWrapper, EdContent, Stepper, StepperHead, LogoLink, StepperDesc } from '../styles/workStyle.js'
+import { ExperienceWrapper, WorkWrapper, Stepper, StepperHead, LogoLink, StepperDesc } from '../styles/workStyle.js'
 import Layout from '../components/layout'
 
 const Experience = () => (

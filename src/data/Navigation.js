@@ -4,6 +4,10 @@ export default [
     path: '/',
   },
   {
+    label: 'Education',
+    path: '/education',
+  },
+  {
     label: 'Publications',
     path: '/publication_and_patents',
   },

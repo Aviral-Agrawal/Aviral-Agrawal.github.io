@@ -1,6 +1,5 @@
 import React from 'react'
 //import MainBackground from '../assets/images/main_background.png'
-import AboutBox from '../components/About/AboutBox'
 import AboutBox2 from '../components/About/AboutBox2'
 import about from '../data/About'
 import { UserWrapper, UserTitle, UserDescription, DownloadButton, UserTopic } from '../styles/indexStyle.js'
@@ -20,7 +19,7 @@ const IndexPage = () => {
         </p>
         <DownloadButton href="https://github.com/Aviral-Agrawal/aviral-agrawal.github.io/raw/Code/aviral_resume.pdf/"  download title="Aviral_Agrawal_Resume">Download Resume</DownloadButton>
       </div>
-      {/*<img src={MainBackground} alt="rashmi self" />*/}
+      {}
     </UserDescription>
     <UserTopic>
       {
