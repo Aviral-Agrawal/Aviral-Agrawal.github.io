@@ -18,8 +18,10 @@ const IndexPage = () => {
             <div>
               <p>
                 Hello there! I am a M.S. in Computer Vision graduate from Carnegie Mellon
-                University and will begin working as a Computer Vision Software Engineer at Waymo! Prior to this, I've worked in the industry for a total of three
-                years in companies such as Nvidia, Samsung Research, Amazon, Oracle building experience in industry research in domain such as video understanding, video quality enhancement, and video compression.
+                University. Prior to this, I've worked in the industry for a total of three
+                years in companies such as Nvidia, Samsung Research, Amazon, Oracle. 
+                <br />
+                My research interests lie in 3D computer vision, Vision Language Models, and multimodal learning.
                 I believe that Computer Vision has much to offer and hence, I am looking forward to broadening
                 my experience horizon with other applications too!
               </p>
