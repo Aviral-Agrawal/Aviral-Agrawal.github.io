@@ -8,7 +8,7 @@
   text-align: center;
 }
 
-.react-tabs__tab {
+.react-tabs .react-tabs__tab {
   display: inline-block;
   border-bottom: none;
   bottom: -1px;
@@ -17,7 +17,7 @@
   padding: 6px 12px;
   cursor: pointer;
   border-right: 1px solid #eee;
-  color: #fff;
+  color: #333333;
 }
 .react-tabs__tab:last-of-type {
   border-right: none;

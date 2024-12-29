@@ -14,7 +14,7 @@ export const RecWrapper = styled.div`
 `
 export const RecBox = styled.div`
   margin-top: 10%;
-  color: #eeeeee;
+  color: #333333;
   h3 a{
     margin: 0;
     color: #eeeeee;

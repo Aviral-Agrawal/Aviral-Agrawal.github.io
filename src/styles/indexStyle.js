@@ -6,7 +6,7 @@ export const UserWrapper = styled.div`
 export const UserTitle = styled.h1`
   font-size: 4.2em;
   font-weight: bold;
-  color: #ffffff;
+  color: #333333;
   span{
     color: #7fa1e8;
   }
@@ -20,7 +20,7 @@ export const UserDescription = styled.div`
   justify-content: space-evenly;
   margin-bottom: 10%;
   p{
-    color: #ffffff;
+    color: #333333;
     max-width: 90%;
     font-weight: 300;
     font-size: 26px;
@@ -50,7 +50,7 @@ export const DownloadButton = styled.a`
   align-items: center;
   justify-content: CENTER;
   text-decoration: none;
-  color: #ffffff;
+  color: #333333;
   cursor: pointer;
   :hover{
     color: #7fa1e8;

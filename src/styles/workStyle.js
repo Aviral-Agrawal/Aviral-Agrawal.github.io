@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const ExperienceWrapper = styled.div`
   align-items: flex-start;
   display: flex;
-  color: #eeeeee;
+  color: #333333;
   padding: 5% 0;
   @media (max-width: 700px) {
     flex-direction: column;
@@ -63,7 +63,7 @@ export const StepperHead = styled.div`
   a{
     font-size: 23px;
     font-weight: 300;
-    color: #eeeeee;
+    color: #333333;
     text-decoration: none;
   }
   @media (max-width: 700px) {

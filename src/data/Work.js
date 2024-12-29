@@ -2,10 +2,28 @@ import amazon from '../assets/images/amazon-logo.png'
 import samsung from '../assets/images/samsung_logo_w_background.jpeg'
 import oracle from '../assets/images/oracle-logo.png'
 import mmi from '../assets/images/mmi-logo.png'
+import nvidia from '../assets/images/nvidia_logo.png'
 
 export default [
     {
         id: 1,
+        name: "NVIDIA",
+        designation: "AI Video Intern",
+        dated: "May 2024 - Aug 2024",
+        logo: nvidia,
+        companyLink: "https://www.nvidia.com",
+        description: "<p> <ul><li>Designed novel AI-based Super Resolution and Video \
+        denoising model-based coding tool for AV2 video-compression standard\
+        </li>\
+        <li>The new model was 50x smaller than the previous model and resulted in \
+        better visual quality (VMAF) while maintaining the PSNR\
+        </li>\
+        <li>Applied for a patent for the newly innovated model</li>\
+        </p>"
+    },
+
+    {
+        id: 2,
         name: "Samsung Research Institute Bangalore",
         designation: "Computer Vision Engineer",
         dated: "Jan 2021 - Jun 2023",
@@ -27,7 +45,7 @@ export default [
         </li></p>"
     },
     {
-        id: 2,
+        id: 3,
         name: "Oracle",
         designation: "DevOps Engineer",
         dated: "Nov 2020 - Jan 2021",
@@ -44,7 +62,7 @@ export default [
         </p>"
     },
     {
-        id: 3,
+        id: 4,
         name: "Amazon - India Machine Learning",
         designation: "Research Engineer Intern",
         dated: "Jan 2020 - July 2020",
@@ -68,7 +86,7 @@ export default [
         </li></p>"
     },
     {
-        id: 4,
+        id: 5,
         name: "Samsung Research Institute Bangalore",
         designation: "Research Student Trainee",
         dated: "May 2019 - July 2019",
@@ -88,7 +106,7 @@ export default [
         </li></ul></p>"
     },
     {
-        id: 5,
+        id: 6,
         name: "MapmyIndia",
         designation: "Student Trainee",
         dated: "May 2018 - July 2018",

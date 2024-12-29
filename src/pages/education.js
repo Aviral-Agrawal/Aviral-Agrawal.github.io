@@ -17,7 +17,8 @@ const Experience = () => (
                 <div className="circle"></div>
                 <div className="line"></div>
               </div>
-              <Stepper>
+              <Stepper style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: '20px' }}>
+              <div style={{ flex: '1' }}> {/* Text container */}
                 <StepperHead>
                   <div>
                     <h3>{item.name}</h3>
@@ -30,12 +31,14 @@ const Experience = () => (
                     Coursework: {item.coursework}
                     </p>
                   </div>
-                  <LogoLink href={item.companyLink}>
-                    <img src={item.logo} alt="company" width="175px"/>
-                  </LogoLink>
                 </StepperHead>
                 <StepperDesc dangerouslySetInnerHTML={{__html: item.description}} />
+              </div>
+              <LogoLink href={item.companyLink} style={{ width: '175px', height: 'auto', flexShrink: '0', marginLeft: '20px' }}>
+                <img src={item.logo} alt="company" style={{ width: '100%', height: 'auto', objectFit: 'contain' }} />
+              </LogoLink>
               </Stepper>
+
               </div>
             ))
           }

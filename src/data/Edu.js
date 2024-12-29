@@ -7,9 +7,10 @@ export default [
         name: "Carnegie Mellon University, Pittsburgh, PA",
         degree: "M.S. Computer Vision",
         dated: "Aug 2023 - Dec 2024",
-        cgpa: "4.22/4.0",
+        cgpa: "4.18/4.0",
         division: "",
-        coursework: "Multi-Modal Machine Learning, Robot Learning, Advanced Computer Vision",
+        coursework: "Learning for 3D Vision, Geometry for Vision, Multi-Modal Machine Learning, Learning based Image Synthesis,\
+                    Advanced NLP, Robot Learning, Advanced Computer Vision",
         logo: cmu,
         companyLink: "https://www.cmu.edu",
     },

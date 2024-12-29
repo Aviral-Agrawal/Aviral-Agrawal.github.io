@@ -8,7 +8,7 @@ export const ContactWrapper = styled.div`
 `;
 export const ContactHeader = styled.h1`
   text-align: CENTER;
-  color: #eeeeee;
+  color: #333333;
   margin-bottom: 5%;
   font-weight: 300;
 `

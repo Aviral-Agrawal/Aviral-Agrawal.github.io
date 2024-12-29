@@ -3,7 +3,7 @@ import React from 'react'
 import styled from 'styled-components'
 
 const LinkNav = styled(Link)`
-  color: #ffffff;
+  color: #333333;
   margin-right: 35px;
   transition: color 0.2s ease-out;
   text-decoration: none;
